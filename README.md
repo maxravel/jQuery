@@ -1,5 +1,6 @@
 # zad2
 zadanie drugie, tydzien pierwszy bootcamp front-end
+
 wszystkie <div> posiadające klasę "grid" oraz "grid-12":   
 
 $(".grid .grid-12 div")
@@ -10,7 +11,7 @@ $("a[href^='http']:parent(nav)")
 
 wszystkie elementy <input> których typ to "radio" lub "checkbox" oraz dodatkowo nie są aktualnie zaznaczone (checked):
 
-$("input:radio:not(:checked), inpute:checkbox:not(:checked)")
+$("input:radio:not(:checked), input:checkbox:not(:checked)")
 
 wyłącznie pierwszy element <p> który jest pusty (nie zawiera dzieci) oraz znajduje się w <div> z identyfikatorem "text":
 
