@@ -1,0 +1,1 @@
+Repository for jQuery sketches.
